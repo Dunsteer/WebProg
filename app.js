@@ -14,16 +14,14 @@ function nadjiPonavljanje(string) {
 function nadjiNePonavljanje(string) {
     const char = [];
     
-    for (let i = 0; i < string.length; i++) {
-        let curr = string[i];
+    for (const curr of string) {
         if (char[curr])
             char[curr]++;
         else
             char[curr] = 1;
     }
 
-    for (let i = 0; i < string.length; i++) {
-        let curr = string[i];
+    for (const curr of string) {
         if (char[curr] == 1) return curr;
     }
 }
