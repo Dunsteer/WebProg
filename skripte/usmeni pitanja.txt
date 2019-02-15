@@ -1,0 +1,47 @@
+
+Najcesca pitanja iz Web programiranja:
+WWW - osnove (HTTP, HTML, URL)
+Web aplikacije
+Protokoli (HTTP 1.0, 1.1, 2.0, Websocket)
+Arhitektura Web aplikacija (dijagram, cloud)
+HTML, opste, struktura strane
+HTML5, semanticki elementi 
+CSS, opste
+CSS selektori
+progresivno poboljsanje 
+dizajn strane - flexbox
+Responsive dizajn
+Javascript (JS), opste
+funkcije
+razlika izmedju deklaracije i izraza fje (FE)
+hoisting
+lambda fje
+Closure
+IIFE
+nizovi
+prototipi
+konstruktori preko IIFE-a
+ES5 klase
+ES6
+Typescript
+DOM, definicija i najcesce funkcije API-ja
+XML tehnologije
+XML namespace
+XML Schema
+XPath
+XML vs HTML
+XSL
+JSON
+JSON vs XML
+AJAX
+PHP, opste
+PHP superglobalne promenljive
+prenos podataka sa klijenta na server
+PHP, klase i objekti
+PHP, nasledjivanje
+ORM alati
+Web servisi
+SOAP servisi
+RPC
+RESTful servisi
+SPA aplikacije
