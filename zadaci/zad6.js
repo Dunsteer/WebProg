@@ -1,0 +1,1 @@
+//6. Proveriti da li je recenica palindrom
